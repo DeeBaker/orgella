@@ -1,0 +1,45 @@
+<!-- NAVIGATION BAR-->
+    <nav class="navbar navbar-dark bg-inverse navbar-full" id="nav-main">
+        <a class="navbar-brand" href="#" ><img height="30" src="img/tapLogo.png"></a>
+      <ul class="nav navbar-nav">
+       
+       
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+        </li>
+        
+        
+        
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">About Us</a></li>
+            <li><a href="#">What We Offer*</a></li>
+            <li><a href="#">Why We Are Worth It</a></li>            
+            <li><a href="#">Make Contact</a></li>	            
+          </ul>
+        </li>
+        
+        
+        <li class="nav-item">
+          <a class="nav-link" href="#">Classes</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Showcases</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Competition Teams</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">News</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Galleries</a>
+        </li>
+        
+      </ul>
+      <form class="form-inline pull-xs-right">
+        <input class="form-control" type="text" placeholder="Search">
+        <button class="btn btn-success-outline" type="submit">Search</button>
+      </form>
+    </nav>

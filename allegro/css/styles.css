@@ -1,0 +1,56 @@
+/*styles.css */
+html,
+body{
+    height: 100%;
+}
+
+img{
+    max-width: 100%;
+}
+#three-lines{
+    color:#9f7A7c !important;
+}
+/* cover */
+#cover {
+    background: #222 url('../img/lineUp.png') center center  no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100%; 
+    text-align: center;
+    display:flex;   
+    align-items:center;
+}
+#cover-caption{
+    width:100%
+}
+/*-- For contact page--*/
+#text-link{
+    color: #A8384b;
+}
+#maroon-Body{
+    background-color:white !important;
+}s
+#light-Text{
+    color: #9f7a7c ;
+}
+#maroon-Text{
+    color: #490f0d !important;
+}
+#the-Cards{
+    background-color: white !important;
+}
+#button-4allegro{
+    border-color: #9f7a7c;
+    color: #9f7a7c;
+    background-color: lightgray;
+}
+#card-images{
+   
+    border: 1px solid;
+    border-color: #490f0d;
+    
+}
+#footer-Text{
+    color: #9f7a7c ;
+    align-items:baseline;
+    text-align:right;
